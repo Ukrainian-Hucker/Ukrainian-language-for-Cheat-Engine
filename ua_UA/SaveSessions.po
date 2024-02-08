@@ -1,0 +1,19 @@
+﻿SS-OaPF
+msgid "Open a process first"
+msgstr "Зпочатку відкрийте процес"
+
+#: SS-CESF
+msgid "Cheat Engine Scan files"
+msgstr "Файли сканування Cheat Engine"
+
+#: SS-OaPFaDaS
+msgid "Open a process first and do a scan"
+msgstr "Зпочатку відкрийте процес і виконайте сканування"
+
+#: SS-SSS
+msgid "Save scan session"
+msgstr "Зберегти сессію пошуку"
+
+#: SS-LSS
+msgid "Load scan session"
+msgstr "Завантажити сессію пошуку"

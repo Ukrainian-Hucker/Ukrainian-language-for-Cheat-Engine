@@ -1,0 +1,319 @@
+﻿msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Project-Id-Version: java.lua;javaclass.lua;javaClassEditor.lua RU\n"
+"Last-Translator: Artem Dmatriev <HACKUA24.02@gmail.com>\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ua_UA\n"
+"X-Generator: Poedit 2.0.2\n"
+
+#: java-AAF
+msgid "Auto assembler failed:"
+msgstr "Автоассемблер потерпів невдачу:"
+
+#: java-JEST
+msgid "Java:eventserver terminated"
+msgstr "Java: eventserver завершив роботу"
+
+#: java-JD
+msgid "Java:Disconnected"
+msgstr "Java:Відключений"
+
+#: java-JUER
+msgid "Java:Unexpected event received"
+msgstr "Java:Отримано несподівана подія"
+
+#: java-JEHT
+msgid "Java:Event handler terminating"
+msgstr "Java:Завершення оброблювача подій"
+
+#: java-IJS
+msgid "Invalid java signature"
+msgstr "Недійсна сигнатура java"
+
+#: java-ARTANS
+msgid "Array return types are not supported"
+msgstr "Повертаний масив не підтримується"
+
+#: java-PCDNM
+msgid "Parameter count does not match"
+msgstr "Кількість параметрів не співпадає"
+
+#: java-SWNS
+msgid "Scantype was not set"
+msgstr "Тип пошуку не було встановлено"
+
+#: java-Class
+msgid "Class"
+msgstr "Клас"
+
+#: java-Method
+msgid "Method"
+msgstr "Метод"
+
+#: java-Position
+msgid "Position"
+msgstr "Позиція"
+
+#: java-MI
+msgid "Більше info %s.%s(%d)"
+msgstr "Додаткові відомості %s.%s(%d)"
+
+#: java-TDMATGV
+msgid "Наступні методи accessed the given variable"
+msgstr "Наступні методи отримали доступ до цієї змінної"
+
+#: java-results
+msgid "results"
+msgstr "результати"
+
+#: java-OWWTJAILAS
+msgid "java_find_what_writes тільки роботи, коли jvmti agent is launched at start"
+msgstr "java_find_what_writes працює, тільки якщо JVMTI агент запущено під час старту"
+
+#: java-Generic
+msgid "Generic="
+msgstr "Узагальнення="
+
+#: java-II
+msgid "---Implemented interfaces---"
+msgstr "---Реалізовані інтерфейси---"
+
+#: java-Fields
+msgid "---Fields---"
+msgstr "---Поля---"
+
+#: java-Methods
+msgid "---Methods---"
+msgstr "---Методи---"
+
+#: java-SFC
+msgid "Search for class..."
+msgstr "Знайти клас..."
+
+#: java-SF
+msgid "Search for..."
+msgstr "Знайти..."
+
+#: java-NewS
+msgid "New Scan"
+msgstr "Знову"
+
+#: java-FS
+msgid "First Scan"
+msgstr "Пошук"
+
+#: java-JVScanner
+msgid "Java Variable Scanner"
+msgstr "Сканер Java змінних"
+
+#: java-Value
+msgid "Value"
+msgstr "Значення"
+
+#: java-NextS
+msgid "Next Scan"
+msgstr "Відсів"
+
+#: java-Found
+msgid "Found:"
+msgstr "Знайдено:"
+
+#: java-FWATV
+msgid "Find what accesses this value"
+msgstr "Знайти звернення до цього значення"
+
+#: java-Search
+msgid "Search"
+msgstr "Знайти"
+
+#: java-FC
+msgid "Find Class"
+msgstr "Знайти Клас"
+
+#: java-Finddotdotdot
+msgid "Find..."
+msgstr "Знайти..."
+
+#: java-EM
+msgid "Edit method"
+msgstr "Змінити метод"
+
+#: java-AJF
+msgid "Activate java features"
+msgstr "Активувати функції java"
+
+#: java-DJC
+msgid "Dissect java classes"
+msgstr "Аналіз java класів"
+
+#: java-JVScan
+msgid "Java variable scan"
+msgstr "Сканер Java змінних"
+
+#: java-DCP
+msgid "Debug child processes"
+msgstr "Налагодження дочірніх процесів"
+
+#: java-JHDTI
+msgid "The java handler failed to initialize"
+msgstr "Не вдалося ініціалізувати java обробник"
+
+#: java-SJMIEITTP
+msgid "Шаву menu menu item even if the target process hasn't loaded jvm.dll (Used for the local setEnvironment option)"
+msgstr "Показувати меню Java, навіть якщо процес не завантажив jvm.dll (Використовується для локальної опції setEnvironment)"
+
+#: javaclass-ICPTE
+msgid "Неправильний статевий пологовий tag обліковий запис: "
+msgstr "Зустрівся неправильний тег пулу констант: "
+
+#: javaclass-Tag
+msgid "(tag="
+msgstr "(тег="
+
+#: javaclass-NAVC
+msgid "Not a valid classfile"
+msgstr "Nedeystvitel'nyy fayl klassa"
+
+#: javaclasseditor-ICNI
+msgid " is currently not implemented"
+msgstr " v nastoyashcheye vremya ne realizovana"
+
+#: javaclasseditor-WCNBUW
+msgid "wide can not be used with "
+msgstr "shirina ne mozhet ispol'zovat'sya s "
+
+#: javaclasseditor-IAOPPF
+msgid "Invalid amount of parameters provided for "
+msgstr "Nedopustimoye kolichestvo parametrov, predusmotrennykh dlya "
+
+#: javaclasseditor-TL
+msgid "The label "
+msgstr "Metka "
+
+#: javaclasseditor-INYD
+msgid "is not yet defined"
+msgstr "yeshcho ne opredelena"
+
+#: javaclasseditor-TIICNI
+msgid "This instruction is currently not implemented"
+msgstr "Dannaya instruktsiya v nastoyashcheye vremya ne realizovana"
+
+#: javaclasseditor-UI
+msgid "unknown instruction:"
+msgstr "neizvestnaya instruktsiya:"
+
+#: javaclass-NAVC
+msgid "Неправильний клас файлу"
+msgstr "Недійсний файл класу"
+
+#: javaclasseditor-ICNI
+msgid " is currently not implemented"
+msgstr "в даний час не реалізована"
+
+#: javaclasseditor-WCNBUW
+msgid "wide can not be used with "
+msgstr "ширина не може використовуватися з"
+
+#: javaclasseditor-IAOPPF
+msgid "Неправильна сума параметрів призначена для "
+msgstr "Неприпустима кількість параметрів, передбачених для "
+
+#: javaclasseditor-TL
+msgid "The label"
+msgstr "Мітка"
+
+#: javaclasseditor-INYD
+msgid "не залежить від"
+msgstr "ще не визначено"
+
+#: javaclasseditor-TIICNI
+msgid "Ця інструкція не реалізована"
+msgstr "Ця інструкція в даний час не реалізована"
+
+#: javaclasseditor-UI
+msgid "unknown instruction:"
+msgstr "невідома інструкція:"
+
+#: javaclasseditor-YCORI
+msgid "Ви можете тільки замінити інструкції на інструкції boundary"
+msgstr "Ви можете замінювати інструкції лише на межі інструкції"
+
+#: javaclasseditor-StartIndex
+msgid "si="
+msgstr "StartIndex"
+
+#: javaclasseditor-Offset
+msgid "offset="
+msgstr "зміщення="
+
+#: javaclasseditor-IL
+msgid "Insert line"
+msgstr "Вставити рядок"
+
+#: javaclasseditor-ITJAC
+msgid "Input java assembly code you wish to insert at line "
+msgstr "Введіть асемблерний код, який потрібно вставити в рядок "
+
+#: javaclasseditor-EL
+msgid "Edit line"
+msgstr "Редагувати рядок"
+
+#: javaclasseditor-DNL
+msgid "Define new label"
+msgstr "Визначити нову мітку"
+
+#: javaclasseditor-GALFL
+msgid "Give a labelname for line "
+msgstr "Встановіть ім'я мітки для рядка"
+
+#: javaclasseditor-TIAALWTN
+msgid "Ви можете бути зображені на цій сторінці"
+msgstr "Мітка з таким ім'ям вже існує"
+#javaclasseditor-OBSNBS
+msgid "old bsize=%d new bsize=%d"
+msgstr "старий розмір у байтах=%d новий розмір у байтах=%d"
+
+#: javaclasseditor-OSNS
+msgid "old size=%d new size=%d"
+msgstr "старий розмір = %d новий розмір = %d"
+
+#: javaclasseditor-Method
+msgid "Method: "
+msgstr "Метод: "
+
+#: javaclasseditor-MS
+msgid "Max Stack"
+msgstr "Макс. стек"
+
+#: javaclasseditor-ML
+msgid "Max Locals"
+msgstr "Макс. локальних змінних"
+
+#: javaclasseditor-SC
+msgid "Save changes"
+msgstr "Зберегти зміни"
+
+#: javaclasseditor-Index
+msgid "Index"
+msgstr ""
+
+#: javaclasseditor-BI
+msgid "ByteIndex"
+msgstr ""
+
+#: javaclasseditor-Label
+msgid "Label"
+msgstr "Мітка"
+
+#: javaclasseditor-Exception
+msgid "Exception"
+msgstr "Виняток"
+
+#: javaclasseditor-Instruction
+msgid "Instruction"
+msgstr "Інструкція"
+
+#: javaclasseditor-DL
+msgid "Define label"
+msgstr "Визначити мітку"
